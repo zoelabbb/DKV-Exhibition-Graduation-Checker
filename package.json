@@ -1,0 +1,29 @@
+{
+  "name": "proyek-pengecekan-kelulusan",
+  "version": "1.0.0",
+  "description": "Membangun aplikasi web menggunakan Node.js, Express, dan MongoDB untuk siswa Desain Komunikasi Visual (DKV) memeriksa status kelulusan pameran mereka.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --logHeapUsage",
+    "start": "nodemon ./src/index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "dkv",
+    "cek kelulusan",
+    "pameran",
+    "jest"
+  ],
+  "author": "Alif Ryuu BR (github.com/zoelabbb)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2",
+    "supertest": "^6.3.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

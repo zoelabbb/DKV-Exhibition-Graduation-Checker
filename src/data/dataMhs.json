@@ -1,0 +1,502 @@
+[
+    {
+        "nama": "Jessika Reeman",
+        "nim": 155653,
+        "angkatan": 2020,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Saxe Riggulsford",
+        "nim": 717323,
+        "angkatan": 2023,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "A+",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Deeann Bisacre",
+        "nim": 672356,
+        "angkatan": 2018,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "B+",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Oliver Othen",
+        "nim": 351010,
+        "angkatan": 2019,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "B+",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Marin Tomasek",
+        "nim": 952176,
+        "angkatan": 2019,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Dan Urvoy",
+        "nim": 257782,
+        "angkatan": 2018,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Rowland Petchell",
+        "nim": 528199,
+        "angkatan": 2021,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "B+",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Mitchel Guyet",
+        "nim": 175402,
+        "angkatan": 2020,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "A+",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Cris Faircloth",
+        "nim": 989911,
+        "angkatan": 2021,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "A+",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Adah Geane",
+        "nim": 519071,
+        "angkatan": 2023,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "A+",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Nicola Catford",
+        "nim": 959131,
+        "angkatan": 2021,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Wylma Huerta",
+        "nim": 753275,
+        "angkatan": 2021,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Karyl Hawkslee",
+        "nim": 36910,
+        "angkatan": 2021,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "B+",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Melinda Harnor",
+        "nim": 31559,
+        "angkatan": 2022,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "B+",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Sunny Kynoch",
+        "nim": 674257,
+        "angkatan": 2021,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "B+",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Silvanus Burgise",
+        "nim": 164716,
+        "angkatan": 2019,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "B+",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "De Correa",
+        "nim": 977301,
+        "angkatan": 2018,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Vere Gimbrett",
+        "nim": 330821,
+        "angkatan": 2023,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "A+",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Aldous Mularkey",
+        "nim": 208153,
+        "angkatan": 2020,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Skipton Kinsey",
+        "nim": 849688,
+        "angkatan": 2021,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Fidela Redhead",
+        "nim": 960231,
+        "angkatan": 2022,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Abby Cholomin",
+        "nim": 843804,
+        "angkatan": 2020,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "A+",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Pryce Harewood",
+        "nim": 29255,
+        "angkatan": 2022,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "B+",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Orelee Lippitt",
+        "nim": 164442,
+        "angkatan": 2018,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "A+",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Jenn Leonard",
+        "nim": 441335,
+        "angkatan": 2019,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "B+",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Phylis Waye",
+        "nim": 704786,
+        "angkatan": 2022,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Mabelle Rosiello",
+        "nim": 656579,
+        "angkatan": 2019,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "B+",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Glenn Pierson",
+        "nim": 175076,
+        "angkatan": 2018,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "A+",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Gena Upsale",
+        "nim": 179252,
+        "angkatan": 2023,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "B+",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Jarrett Soda",
+        "nim": 519101,
+        "angkatan": 2019,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "A+",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Kathrine Hains",
+        "nim": 376869,
+        "angkatan": 2023,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Jodie Adnam",
+        "nim": 289566,
+        "angkatan": 2018,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Venita Edeler",
+        "nim": 917402,
+        "angkatan": 2023,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "B+",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Kirsteni Loomis",
+        "nim": 727138,
+        "angkatan": 2019,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "A+",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Phaidra Pawellek",
+        "nim": 433558,
+        "angkatan": 2022,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Malory Philson",
+        "nim": 989351,
+        "angkatan": 2022,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "B+",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Cord Gutridge",
+        "nim": 946457,
+        "angkatan": 2019,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Marquita Kentish",
+        "nim": 488204,
+        "angkatan": 2019,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "A+",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Marlee Presnall",
+        "nim": 73017,
+        "angkatan": 2021,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "A+",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Clem Daunter",
+        "nim": 749774,
+        "angkatan": 2019,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "B+",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Andria Beacom",
+        "nim": 544169,
+        "angkatan": 2020,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Claudio Screach",
+        "nim": 568252,
+        "angkatan": 2018,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "A+",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Jackie Fontaine",
+        "nim": 812576,
+        "angkatan": 2018,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Gery Pursglove",
+        "nim": 167365,
+        "angkatan": 2023,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "A+",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Ceciley Wardhough",
+        "nim": 969695,
+        "angkatan": 2018,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Tonie McLenaghan",
+        "nim": 997360,
+        "angkatan": 2020,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "B+",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Enrique Gilliland",
+        "nim": 861585,
+        "angkatan": 2021,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Henriette Braybrooke",
+        "nim": 693524,
+        "angkatan": 2020,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "A+",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    {
+        "nama": "Kellen Lief",
+        "nim": 634760,
+        "angkatan": 2022,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "B+",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": false
+    },
+    {
+        "nama": "Ginnie Hallawell",
+        "nim": 270035,
+        "angkatan": 2020,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "B+",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": false
+    }
+]

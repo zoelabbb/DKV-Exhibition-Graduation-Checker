@@ -1,0 +1,32 @@
+{
+    "123456": {
+        "nama": "Raisa Clayton",
+        "nim": 123456,
+        "angkatan": 2020,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "A+",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    "789012": {
+        "nama": "Alfard E. Smith",
+        "nim": 789012,
+        "angkatan": 2019,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "B+",
+        "tema_pameran": "Komik Sejarah Indonesia",
+        "status_kelulusan": "Lulus Pameran",
+        "value_status_kelulusan": true
+    },
+    "345678": {
+        "nama": "Sarah Jane",
+        "nim": 345678,
+        "angkatan": 2019,
+        "prodi": "Desain Komunikasi Visual",
+        "nilai_pameran": "D",
+        "tema_pameran": "Karya Tulis Ilmiah",
+        "status_kelulusan": "Tidak Lulus Pameran",
+        "value_status_kelulusan": false
+    }
+}
