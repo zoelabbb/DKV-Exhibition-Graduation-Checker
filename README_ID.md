@@ -4,8 +4,8 @@
 
 1. [Pengantar](#1-pengantar)
 2. [Endpoint Utama](#2-endpoint-utama)
-   - [1. Pengecekan Kelulusan Mahasiswa](#1-pengecekan-kelulusan-mahasiswa)
-   - [2. List Mahasiswa](#2-list-mahasiswa)
+   - [Pengecekan Kelulusan Mahasiswa](#1-pengecekan-kelulusan-mahasiswa)
+   - [List Mahasiswa](#2-list-mahasiswa)
 5. [Status Kode](#3-status-kode)
 6. [Kesalahan Umum](#4-kesalahan-umum)
 7. [Referensi](#5-referensi)
